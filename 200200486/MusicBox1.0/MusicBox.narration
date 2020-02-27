@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm Creating a location to store my output later.
+I'm creating a stack to hold my parsed values
+I'm also making this value and loading it with the textarea split up
+Creating a loop to start parsing through the values in junk
+
+creating a nested loop to.
+
+
+I'm checking if the value in this section of the loop is equal to A.
+If it is, I'm pushing the value A into the notes stack
+
+I'm checking if the value in this section of the loop is equal to B.
+If it is, I'm pushing the value B into the notes stack
+
+I'm checking if the value in this section of the loop is equal to C.
+If it is, I'm pushing the value C into the notes stack
+
+I'm checking if the value in this section of the loop is equal to D.
+If it is, I'm pushing the value D into the notes stack
+
+
+
+
+
+amending this text string into my variable.
+
+Creating a for loop with the max value being the size of notes stack.
+checking if the first value has already been placed.
+if it is amending this string to my variable
+
+amending this string to my variable
+
+creating a switch statement to check for different possible values in my notes stack
+creating a case for A
+amending the appropriate string into my variable
+checking if this is the first value being added, if so breaking out of the switch early.
+amending a the string into my variable.
+breaking out of the switch.
+creating a case for B
+amending the appropriate string into my variable
+checking if this is the first value being added, if so breaking out of the switch early.
+amending a the string into my variable.
+breaking out of the switch.
+creating a case for C
+amending the appropriate string into my variable
+checking if this is the first value being added, if so breaking out of the switch early.
+amending a the string into my variable.
+breaking out of the switch.
+creating a case for D
+amending the appropriate string into my variable
+checking if this is the first value being added, if so breaking out of the switch early.
+amending a the string into my variable.
+breaking out of the switch.

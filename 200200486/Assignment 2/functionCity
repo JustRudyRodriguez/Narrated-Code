@@ -1,0 +1,6 @@
+from kanren import *
+parent = Relation()
+x = var()
+facts(parent, ("Pops","Kids"))
+y= run(1,x ,parent(x,"Kids"))
+print(y)

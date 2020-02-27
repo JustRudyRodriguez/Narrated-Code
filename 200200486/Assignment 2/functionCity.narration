@@ -1,0 +1,6 @@
+importing kanren library
+creating relation variable
+creating x variable
+creating fact, that pops is a parent of kids.
+setting y to value of finding who "kids" parent is.
+printing Y
