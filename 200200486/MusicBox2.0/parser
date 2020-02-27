@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<script
+			  src="https://code.jquery.com/jquery-3.4.1.js"
+			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+			  crossorigin="anonymous"></script>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <textarea id="test" rows="6" cols="8">
+A
+ B
+  C
+   D
+    </textarea>
+    <script type="text/javascript">
+    var code_output;
+    var notes = [];
+    var junk = $("#test").val();
+    var exp = /[a-z]/i;
+    var code_output = junk.match(exp);
+    code_output = junk.match(exp);
+    alert(code_output.index);
+    notes[0]=code_output;
+    junk.split(code_output.index);
+    alert(junk[1]) //Your regex is working well at grabbing the first letter, but splitting it is the next step.
+    </script>
+  </body>
+</html>
